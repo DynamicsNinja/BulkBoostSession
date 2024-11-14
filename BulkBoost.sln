@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BulkBoost.Console", "BulkBoost.Console\BulkBoost.Console.csproj", "{73498969-AD25-4089-9FFE-8E5BB0A2B4FA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BulkBoost", "BulkBoost\BulkBoost.csproj", "{5D01707A-C048-4001-86C2-A2E213BB1325}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Development|Any CPU = Development|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73498969-AD25-4089-9FFE-8E5BB0A2B4FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73498969-AD25-4089-9FFE-8E5BB0A2B4FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73498969-AD25-4089-9FFE-8E5BB0A2B4FA}.Development|Any CPU.ActiveCfg = Debug|Any CPU
+		{73498969-AD25-4089-9FFE-8E5BB0A2B4FA}.Development|Any CPU.Build.0 = Debug|Any CPU
+		{73498969-AD25-4089-9FFE-8E5BB0A2B4FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73498969-AD25-4089-9FFE-8E5BB0A2B4FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D01707A-C048-4001-86C2-A2E213BB1325}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D01707A-C048-4001-86C2-A2E213BB1325}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D01707A-C048-4001-86C2-A2E213BB1325}.Development|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D01707A-C048-4001-86C2-A2E213BB1325}.Development|Any CPU.Build.0 = Debug|Any CPU
+		{5D01707A-C048-4001-86C2-A2E213BB1325}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D01707A-C048-4001-86C2-A2E213BB1325}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FD611F1-434C-4969-9742-DB1548FCEDA0}
+	EndGlobalSection
+EndGlobal
